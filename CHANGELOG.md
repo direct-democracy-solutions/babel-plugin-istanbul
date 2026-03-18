@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [8.0.4](https://github.com/direct-democracy-solutions/babel-plugin-istanbul/compare/v8.0.3...v8.0.4) (2026-03-18)
+
+
+### Bug Fixes
+
+* **ci:** Force release-please action to Node 24 ([029cf13](https://github.com/direct-democracy-solutions/babel-plugin-istanbul/commit/029cf13ea4fadc3ffcefdb2a5c3f7469ded9cf5f))
+* **ci:** Move Node version override to runner ([b15f51a](https://github.com/direct-democracy-solutions/babel-plugin-istanbul/commit/b15f51a074a556421d87d6761cde58a46963da24))
+
 ## [8.0.3](https://github.com/direct-democracy-solutions/babel-plugin-istanbul/compare/v8.0.2...v8.0.3) (2026-03-18)
 
 
