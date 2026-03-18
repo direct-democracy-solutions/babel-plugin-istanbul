@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [8.0.3](https://github.com/direct-democracy-solutions/babel-plugin-istanbul/compare/v8.0.2...v8.0.3) (2026-03-18)
+
+
+### Bug Fixes
+
+* **ci:** Allow release-please to create pull requests ([e19f532](https://github.com/direct-democracy-solutions/babel-plugin-istanbul/commit/e19f5324d03ffb010409727f89db92a07960e914))
+* **ci:** Allow release-please to create pull requests ([dfa26e6](https://github.com/direct-democracy-solutions/babel-plugin-istanbul/commit/dfa26e6617579afd046e20270bc19b703fad0b98))
+* **ci:** Allow release-please to create tags ([19d0be2](https://github.com/direct-democracy-solutions/babel-plugin-istanbul/commit/19d0be23099b47aefb3b45a5197994e0e81f0f6a))
+* **ci:** Allow release-please to create tags ([cf93290](https://github.com/direct-democracy-solutions/babel-plugin-istanbul/commit/cf9329084cac30c0a11e71bac1cc8228f2d5ea7e))
+* **ci:** Set up trusted publishing ([a4de5a5](https://github.com/direct-democracy-solutions/babel-plugin-istanbul/commit/a4de5a5b669ec761a9fa23623bb6ba3d8c6aee17))
+
 ## [8.0.2](https://github.com/istanbuljs/babel-plugin-istanbul/compare/v8.0.1...v8.0.2) (2025-09-25)
 
 
